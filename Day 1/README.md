@@ -4,4 +4,7 @@
  . (https://replit.com/@Gurjot-Singh/Day-1)
 
 
-![alt text](<Day 1.gif>)
+
+
+https://github.com/Gurjot-gSingh/100-days-learning-python/assets/111984538/f111ddb5-a180-4fcc-a0c3-77a64799df8d
+
