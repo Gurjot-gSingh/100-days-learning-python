@@ -1,4 +1,5 @@
-# Day 1 Working with Variables in Python to Manage Data
+# Day 1 
+# Working with Variables in Python to Manage Data
 
 ## Final Excercise - Band Name Generator
  . (https://replit.com/@Gurjot-Singh/Day-1)
